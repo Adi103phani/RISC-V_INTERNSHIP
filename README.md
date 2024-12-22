@@ -1,5 +1,23 @@
 # RISC-V_INTERNSHIP
 
+# MAIN CODE:
+
+#include <stdio.h>
+
+int main(){
+
+int i,sum=0,n=5;
+
+for(i=0;i<=n;i++){
+
+sum+=i;
+
+}
+
+printf("sum of numbers from 1 to %d is: %d\n",n,sum);
+
+}
+
 ![Screenshot 2024-12-21 094752](https://github.com/user-attachments/assets/ca96c8d1-0d25-4c3c-b47d-3e3cd82a2a0a)
 
 ![Screenshot 2024-12-21 095931](https://github.com/user-attachments/assets/202a344e-8ab7-4eeb-8d6c-c66e8076cbad)
