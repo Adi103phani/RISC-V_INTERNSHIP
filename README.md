@@ -2,6 +2,7 @@
 
 # MAIN CODE:
 
+```c
 #include <stdio.h>
 
 int main(){
@@ -17,6 +18,7 @@ sum+=i;
 printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 
 }
+```
 
 ![Screenshot 2024-12-21 094752](https://github.com/user-attachments/assets/ca96c8d1-0d25-4c3c-b47d-3e3cd82a2a0a)
 
