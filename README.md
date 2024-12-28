@@ -88,32 +88,11 @@ printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 }
 ```
 
-![12](https://github.com/user-attachments/assets/c4dc1ee8-22b0-4e1e-95b1-3c270ad6d63c)
+![12](https://github.com/user-attachments/assets/22df826b-54c6-4e74-a49a-0ceac4c99036)
 
+![1](https://github.com/user-attachments/assets/caa5f1c9-1d99-4660-84ef-cb5f134e99ba)
 
-![1](https://github.com/user-attachments/assets/79ac9ad1-6a18-4e72-9ec6-949f7f5ef1d2)
-
-![3](https://github.com/user-attachments/assets/fafdd7bd-909f-46e6-9b1d-9356b192d887)
-
-![3](https://github.com/user-attachments/assets/a3abd081-ac18-4290-bbc8-fd91de73d6d5)
-
-![3](https://github.com/user-attachments/assets/61621558-556f-4dbd-b466-7e11c3666996)
-
-![6](https://github.com/user-attachments/assets/aae8bb3f-77df-4a52-bff1-9226f82cf370)
-
-![6](https://github.com/user-attachments/assets/88184f75-9929-464d-b99e-9c9d99b5ca93)
-
-![8](https://github.com/user-attachments/assets/a30b764e-b3c8-4810-a15d-d6bed6a2232b)
-
-![9](https://github.com/user-attachments/assets/c38506a5-83b7-4557-96c1-7840d6fae9ac)
-
-![10](https://github.com/user-attachments/assets/b478a168-868f-442b-aee1-77a7340cb48d)
-
-![11](https://github.com/user-attachments/assets/41cfe923-ff18-4cef-b9fe-e0c1211d02fc)
-
-
-
-
+![3](https://github.com/user-attachments/assets/991a6f1c-5f9f-4373-a4b2-f5170d92c1c9)
 
 
 
