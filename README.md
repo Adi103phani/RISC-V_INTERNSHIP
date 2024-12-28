@@ -8,7 +8,7 @@ Steps to obtain the desired output using both normal GCC compiler and RISC-V com
 
 Detailed commands for each step are included in the snapshots below.
 
-Action Required:
+# # Action Required:
 
 Follow the instructions carefully in the snapshots to achieve the expected output.
 
