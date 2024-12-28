@@ -2,7 +2,7 @@
 
 
 
-# Weekly Tasks Overview:
+#  Tasks Overview:
 
 Steps to obtain the desired output using both normal GCC compiler and RISC-V compiler are provided.
 
@@ -17,7 +17,7 @@ This will help in understanding the lower-level details of how the code executes
 Follow the instructions carefully in the snapshots to achieve the expected output.
 
 
-# WEEK - 1:
+# TASK - 1:
 
 # MAIN CODE:
 
@@ -79,7 +79,7 @@ printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 
 ![Screenshot 2024-12-21 112748](https://github.com/user-attachments/assets/5f5f5ad5-f50d-4916-8693-0dc407534389)
 
-# WEEK - 2 :
+# TASK - 2 :
 
 
 # MAIN CODE:
