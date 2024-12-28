@@ -60,6 +60,35 @@ printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 
 ![Screenshot 2024-12-21 112748](https://github.com/user-attachments/assets/5f5f5ad5-f50d-4916-8693-0dc407534389)
 
+# WEEK - 2 :
+
+![1](https://github.com/user-attachments/assets/943c15da-a7f6-4d01-b20f-013abe713316)
+
+![1](https://github.com/user-attachments/assets/79ac9ad1-6a18-4e72-9ec6-949f7f5ef1d2)
+
+![3](https://github.com/user-attachments/assets/fafdd7bd-909f-46e6-9b1d-9356b192d887)
+
+![3](https://github.com/user-attachments/assets/a3abd081-ac18-4290-bbc8-fd91de73d6d5)
+
+![3](https://github.com/user-attachments/assets/61621558-556f-4dbd-b466-7e11c3666996)
+
+![6](https://github.com/user-attachments/assets/aae8bb3f-77df-4a52-bff1-9226f82cf370)
+
+![6](https://github.com/user-attachments/assets/88184f75-9929-464d-b99e-9c9d99b5ca93)
+
+![8](https://github.com/user-attachments/assets/a30b764e-b3c8-4810-a15d-d6bed6a2232b)
+
+![9](https://github.com/user-attachments/assets/c38506a5-83b7-4557-96c1-7840d6fae9ac)
+
+![10](https://github.com/user-attachments/assets/b478a168-868f-442b-aee1-77a7340cb48d)
+
+![11](https://github.com/user-attachments/assets/41cfe923-ff18-4cef-b9fe-e0c1211d02fc)
+
+
+
+
+
+
 
 
 
