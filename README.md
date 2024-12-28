@@ -88,8 +88,8 @@ printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 }
 ```
 
+![12](https://github.com/user-attachments/assets/c4dc1ee8-22b0-4e1e-95b1-3c270ad6d63c)
 
-![1](https://github.com/user-attachments/assets/943c15da-a7f6-4d01-b20f-013abe713316)
 
 ![1](https://github.com/user-attachments/assets/79ac9ad1-6a18-4e72-9ec6-949f7f5ef1d2)
 
