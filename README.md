@@ -1,5 +1,17 @@
 # RISC-V_INTERNSHIP
 
+
+
+# Weekly Tasks Overview:
+
+Steps to obtain the desired output using both normal GCC compiler and RISC-V compiler are provided.
+
+Detailed commands for each step are included in the snapshots below.
+
+Action Required:
+
+Follow the instructions carefully in the snapshots to achieve the expected output.
+
 # WEEK - 1 AND WEEK - 2 :
 
 
