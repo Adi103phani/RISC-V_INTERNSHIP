@@ -12,8 +12,6 @@ Detailed commands for each step are included in the snapshots below.
 
 Follow the instructions carefully in the snapshots to achieve the expected output.
 
-# WEEK - 1 AND WEEK - 2 :
-
 
 # WEEK - 1:
 
