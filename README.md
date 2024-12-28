@@ -8,6 +8,10 @@ Steps to obtain the desired output using both normal GCC compiler and RISC-V com
 
 Detailed commands for each step are included in the snapshots below.
 
+You also have the option to review the assembly code associated with the process.
+
+This will help in understanding the lower-level details of how the code executes in both the GCC and RISC-V environments.
+
 # # Action Required:
 
 Follow the instructions carefully in the snapshots to achieve the expected output.
