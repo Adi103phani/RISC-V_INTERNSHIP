@@ -94,6 +94,7 @@ printf("sum of numbers from 1 to %d is: %d\n",n,sum);
 
 ![3](https://github.com/user-attachments/assets/991a6f1c-5f9f-4373-a4b2-f5170d92c1c9)
 
+![4](https://github.com/user-attachments/assets/4eb1f03e-4c2a-4b71-92f9-66fd8994f8f8)
 
 
 
