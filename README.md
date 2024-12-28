@@ -1,5 +1,10 @@
 # RISC-V_INTERNSHIP
 
+# WEEK - 1 AND WEEK - 2 :
+
+
+# WEEK - 1:
+
 # MAIN CODE:
 
 ```c
