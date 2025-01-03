@@ -1,6 +1,21 @@
 # TASK - 2 :
 
 
+This project involved working with RISC-V architecture and simulation.
+
+# Simulation and Optimization:
+
+I ran simulations using the SPIKE simulator with different optimization levels (-O1 and -Ofast) to analyze performance variations.
+
+# Code Development and Compilation:
+
+I wrote a simple C program and compiled it using a RISC-V GCC compiler specifically designed for the RISC-V architecture.
+
+In essence, these tasks provided hands-on experience with the RISC-V ecosystem, covering aspects like C programming, compilation, assembly language, and performance 
+
+analysis using a simulator.
+
+
 # MAIN CODE:
 
 ```c
